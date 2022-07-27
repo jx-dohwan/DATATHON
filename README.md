@@ -22,6 +22,7 @@
 
 ## 데이터
   - 데이터 : 소상공인 데이터(https://www.data.go.kr/data/15083033/fileData.do)
+    - 추가 데이터(https://data.seoul.go.kr/dataList/datasetList.do)
   - 데이터 소개 : 영업 중인 전국 상가업소 데이터를 제공합니다.(상호명, 업종코드, 업종명, 지번주소, 도로명주소, 경도, 위도 등)
 <br>
 
@@ -54,10 +55,14 @@
     - 최종 발표
    
  
- ### 임시 작업란
+ ## 임시 작업란
   - 위도경도 지도표시
     - https://velog.io/@eodud0582/Folium -> 이거 잘 안됨
       - 해결책
         - https://github.com/python-visualization/branca/issues/81
         - https://nbviewer.org/ 
     - https://parkgihyeon.github.io/project/geocoding-api/
+
+<br>
+## 참고자료
+  - 판다스 : https://wikidocs.net/book/4639
