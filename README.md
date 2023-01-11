@@ -59,11 +59,10 @@
    
  
  ## 임시 작업란
-  - 위도경도 지도표시
-    - https://velog.io/@eodud0582/Folium -> 이거 잘 안됨
-      - 해결책
-        - https://github.com/python-visualization/branca/issues/81
-        - https://nbviewer.org/ 
+  - 위도경도 지도표시 문제 : https://velog.io/@eodud0582/Folium 
+    - 해결책
+      - https://github.com/python-visualization/branca/issues/81
+      - https://nbviewer.org/ 
     - https://parkgihyeon.github.io/project/geocoding-api/
 
 <br>
